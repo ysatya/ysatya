@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ysatya
-- 👀 I’m interested in IOT and Data analytics/ML.
-- 🌱 I’m currently learning Machine learning.
-- 💞️ I’m looking to collaborate on any IOT or Machine learning projects
+-  I’m a Software engineer
 - 📫 How to reach me mail:satyadev24@gmail.com
 
 <!---
